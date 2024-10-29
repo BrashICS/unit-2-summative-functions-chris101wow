@@ -2,7 +2,6 @@
 
 ##### ICS3 - Mr. Brash 🐿️
 
-
 ## Review
 
 **At this point in the course we can:**
@@ -16,7 +15,7 @@
     - Use [parameters](https://www.w3schools.com/js/js_function_parameters.asp) and [return statements](https://www.w3schools.com/jsref/jsref_return.asp) in our functions to help pass around data
 - Create triggers with [event listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp) and modify HTML content [using JavaScript](https://www.w3schools.com/js/js_intro.asp)
 
-### We've come a long way!
+#### We've come a long way!
 
 <br>
 
